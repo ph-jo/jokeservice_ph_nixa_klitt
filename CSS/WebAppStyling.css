@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(50,50,50);
+}
+h1{
+    text-align: center;
+    color: rgba(255,255,255,0.5);
+}
+#jokeViewer{
+    width: 50%;
+    margin: auto;
+}
+#jokeViewer p{
+    text-align: center;
+    padding-top: 10px;
+    color: rgba(255,255,255,0.5);
+}
