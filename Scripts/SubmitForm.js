@@ -1,0 +1,1 @@
+$('#jokeViewer').append("<p>Hallo</p>");

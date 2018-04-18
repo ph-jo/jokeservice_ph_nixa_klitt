@@ -1,0 +1,15 @@
+#form{
+    width: 350px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    background-color: darkgrey;
+    border-radius: 10px;
+    box-shadow: 5px 10px rgba(0,0,0,0.5);
+}
+#form input{
+    margin: 5px;
+}
+.field{
+    width: 300px;
+}
